@@ -40,7 +40,7 @@ Database:
 
 ### Clone Repository
 
-git clone <your_repo_url>
+git clone https://github.com/sairam633/markdown-notes
 
 cd markdown-notes-app
 
@@ -83,16 +83,6 @@ PUT /notes/:id
 DELETE /notes/:id
 
 GET /notes/search/:term
-
----
-
-## Live Demo
-
-Frontend:
-<your-vercel-link>
-
-Backend:
-<your-render-link>
 
 ---
 
